@@ -1,5 +1,24 @@
 body {
   margin: 0;
-  font-family: 'Menlo', 'Monaco', 'Consolas', 'Roboto', 'Helvetica Neue',
-    serif;
+  font-family: 'Menlo', 'Monaco', 'Consolas', 'Roboto', 'Helvetica Neue', serif;
 }
+
+.test {
+  color: red;
+}
+
+/* .container {
+  display: grid;
+  grid-template-columns: 1ft 1fr 1fr;
+  grid-template-rows: 500px 200px 200px 200px 200px;
+  border: 1px solid red;
+  background-color: bisque;
+  color: red;
+}
+
+.header {
+  grid-area: header;
+  grid-column: 1/4;
+  grid-row: 1/2;
+  background-color: blue;
+} */
