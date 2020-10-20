@@ -3,7 +3,9 @@ import css from './css/style.css';
 
 const App = () => (
     <div className="container">
-      <div className="header">Header</div>
+      <div className="header">
+        <h1>Hi, my name is Jordis Man</h1>
+      </div>
       <div className="intro">Intro</div>
       <div className="item1">pro1</div>
       <div className="item2">pro2</div>
@@ -15,7 +17,8 @@ const App = () => (
       <div className="item8">8</div>
       <div className="item9">9</div>
       <div className="item10">10</div>
-      <div>footer</div>
+      <div className="footer">footer</div>
+      <div className="contact">contact</div>
     </div>
 );
 
